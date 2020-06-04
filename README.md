@@ -1,6 +1,6 @@
 # Calculating-With-Functions
 
-This is a JS challenge which needs to calculate the answer with functions. This challenge is from Codewars and I found it very challenging and fun as this gave me a new view of higher order functions.
+This is a JS challenge which needs to calculate the answer with functions. This challenge is from Codewars and I found it very challenging and fun as this gave me a new way to think about higher order functions.
 
 Rules:
 
